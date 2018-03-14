@@ -1,0 +1,26 @@
+@media screen and (max-width:768px){
+ .servicepost {
+  margin-bottom: 50px;
+  
+}
+	
+}
+
+@media screen and (max-width:480px){
+ .button {
+  font-size:13px;
+  
+}
+.banner h2{font-size:45px;}
+.banner p {font-size:21px;}
+.myportfolio p {font-size:15px;}
+	
+}
+
+@media screen and (max-width:360px){
+ .banner h2  {font-size:38px;}
+ .banner p {font-size:18px;}
+ .button {font-size:10px;}
+ .adress p{font-size:15px;}
+ .adress h2{font-size:27px;}
+}
